@@ -203,61 +203,61 @@ p {
 
 
 #mit {
-    background-image:url(img/index/cassette1.jpg);
+    background-image:url(index/cassette1.jpg);
 }
 
 #mit:hover{
-    background-image:url(img/index/cassette2.jpg);
+    background-image:url(index/cassette2.jpg);
 
 }
 
 #abricot {
-    background-image:url(img/index/abricot1.png);
+    background-image:url(index/abricot1.png);
 }
 
 #abricot:hover{
-    background-image:url(img/index/abricot2.jpg);
+    background-image:url(index/abricot2.jpg);
 
 }
 
 #mezo {
-    background-image:url(img/index/rapport.png);
+    background-image:url(index/rapport.png);
 }
 
 #mezo:hover{
-    background-image:url(img/index/rapport2.png);
+    background-image:url(index/rapport2.png);
 
 }
 #cassette {
-    background-image:url(img/index/day1.png);
+    background-image:url(index/day1.png);
 }
 
 #cassette:hover{
-    background-image:url(img/index/DAY2.png);
+    background-image:url(index/DAY2.png);
 
 }
 #montreuil {
-    background-image:url(img/index/montreuil-1.jpg);
+    background-image:url(index/montreuil-1.jpg);
 }
 
 #montreuil:hover{
-    background-image:url(img/index/montreuil-2.jpg);
+    background-image:url(index/montreuil-2.jpg);
 
 }
 #skizein {
-    background-image:url(img/index/SKHII.jpg);
+    background-image:url(index/SKHII.jpg);
 }
 
 #skizein:hover{
-    background-image:url(img/index/SKHI.jpg);
+    background-image:url(index/SKHI.jpg);
 
 }
 #photo {
-    background-image:url(img/index/photographie.jpg);
+    background-image:url(index/photographie.jpg);
 }
 
 #photo:hover{
-    background-image:url(img/index/photographie2.jpg);
+    background-image:url(index/photographie2.jpg);
 
 }
 
