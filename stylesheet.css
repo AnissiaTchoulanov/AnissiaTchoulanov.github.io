@@ -118,12 +118,24 @@ p {
 }
 
 
-@media screen and (max-width: 1200px){
+@media screen (max-width: 1200px){
     .projet
     {
       background-size:cover;
     background-position: center;
     width:100%;
+   height: 200px;
+    margin:10px;
+    
+    }
+}
+
+@media (min-width: 940px) and (max-width: 1024px){
+    .projet
+    {
+      background-size:cover;
+    background-position: center;
+    width:50%;
    height: 200px;
     margin:10px;
     
